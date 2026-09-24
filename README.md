@@ -1,6 +1,8 @@
-# [TIP 2026] Safe Image Generation via Lightweight Concept Erasure in Diffusion Models
+# SVEraser: Safe Image Generation via Lightweight Concept Erasure in Diffusion Models
 
-Official implementation of **SVEraser**, proposed in "[Safe Image Generation via Lightweight Concept Erasure in Diffusion Models](https://ieeexplore.ieee.org/document/11614198/)".
+Official implementation of **SVEraser** for our IEEE Transactions on Image Processing (TIP 2026) paper:
+
+**[Safe Image Generation via Lightweight Concept Erasure in Diffusion Models](https://ieeexplore.ieee.org/document/11614198/)**
 
 <p align="center">
   <img src="assets/teaser.png" width="850">
